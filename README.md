@@ -6,6 +6,7 @@
 AtliQ Grands, a well-established hotel chain operating in Delhi, Mumbai, Bangalore, and Hyderabad for the past 20 years, is currently facing significant challenges in its operations. Despite its extensive experience and diverse offerings, the company is experiencing a decline in revenue and market share.
 
 *1.Declining Revenue:* AtliQ Grands is witnessing a decrease in revenue, indicating potential issues with customer acquisition, retention, or pricing strategies. 
+
 *2.Market Share Loss:* The company's market share is diminishing, suggesting increased competition or decreased brand visibility and appeal.
 
 ***Background***
